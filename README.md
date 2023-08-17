@@ -2,7 +2,9 @@
 
 ## Descrição
 
-Nosso projeto é uma página de pet shop e serviços de banho e tosa. O projeto foi desenvolvido para a disciplina de Desenv. Web em Html5, Css, Javascript e Php.
+Nosso projeto é uma página de pet shop e serviços de banho e tosa.
+
+O projeto foi desenvolvido para a disciplina de Desenv. Web em Html5, Css, Javascript e Php.
 
 ## Funcionalidades Principais
 
@@ -18,9 +20,6 @@ Nosso projeto é uma página de pet shop e serviços de banho e tosa. O projeto 
 - Javascript
 - PHP
 - Utilizamos essas linguagens devido o intuito da disciplina.
-- 
-- Liste as linguagens de programação, bibliotecas, frameworks e ferramentas utilizadas.
-- Explique brevemente por que essas tecnologias foram escolhidas.
 
 ## Uso
 
@@ -47,7 +46,9 @@ Nossa equipe para o desenvolvimento desse projeto:
 ## Contatos
 
 Para feedbacks, sugestões ou caso deseje fazer contato:
-E-mails:
-Rian - 202302686851@alunos.unimetrocamp.edu.br
-Ana  - 202302378481@alunos.unimetrocamp.edu.br
+
+**E-mails:**
+
+Rian - 202302686851@alunos.unimetrocamp.edu.br<br>
+Ana  - 202302378481@alunos.unimetrocamp.edu.br<br>
 Greg - 202302382169@alunos.unimetrocamp.edu.br
