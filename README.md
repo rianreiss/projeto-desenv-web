@@ -41,8 +41,9 @@ Explique como outros alunos ou colaboradores podem contribuir para o projeto:
 
 Liste os nomes dos membros da equipe envolvidos no projeto:
 
-- Nome do Aluno 1
-- Nome do Aluno 2
+- 202302686851 - Rian Carvalho dos Reis
+- 202302382169 - Gregory Gustavo Nicoletti Ribeiro
+
 
 ## Licença
 
