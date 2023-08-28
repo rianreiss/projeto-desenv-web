@@ -43,7 +43,7 @@ Liste os nomes dos membros da equipe envolvidos no projeto:
 
 - 202302686851 - Rian Carvalho dos Reis
 - 202302382169 - Gregory Gustavo Nicoletti Ribeiro
-- 202302381952 - Maurício Joviânia Mercúrio 
+
 
 
 ## Licença
