@@ -1,9 +1,9 @@
-# Projeto "Pet Shop"
+# Projeto "Cafeteria"
 Disciplina de Desenvolvimento Web
 
 ## Descrição
 
-Nosso projeto é desenvolver uma página de um Pet Shop, para facilitar os cuidados com o pet do cliente.
+Nosso projeto é desenvolver uma página de uma cafeteria, para facilitar a venda de produtos para o cliente.
 
 ## Funcionalidades Principais
 
@@ -43,6 +43,7 @@ Liste os nomes dos membros da equipe envolvidos no projeto:
 
 - 202302686851 - Rian Carvalho dos Reis
 - 202302382169 - Gregory Gustavo Nicoletti Ribeiro
+- 202302378481 - Ana Júlia Ghirali da Silva
 
 
 
