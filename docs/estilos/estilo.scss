@@ -1,0 +1,21 @@
+@import 'comum';
+
+@mixin tamnaho_texto($tamanho) {
+    font-size: $tamanho;
+    font-weight: bold;
+}
+
+
+$primary-color: green;
+$secondary-color: lightgray;
+
+body{
+    color: $primary-color;
+    background-color: $secondary-color;
+}
+
+div {
+    p {
+        @include tamnaho_texto(2em);
+    }
+}
