@@ -7,7 +7,7 @@ Nosso projeto é desenvolver uma página de uma cafeteria, para facilitar a vend
 
 ## Funcionalidades Principais
 
-- Lista das principais funcionalidades do projeto.
+- Lista das principais funcionalidades do projeto. Esse projeto tem como funcionalidade a facilitação de vendas e entrega de produtos
 - Destaque as características que o tornam único ou inovador.
 - Use listas para facilitar a leitura e compreensão.
 
@@ -54,6 +54,8 @@ Indique a licença sob a qual o projeto é disponibilizado. Por exemplo:
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## Contato
+
+Para contato enviar email para gregnr080205@gmail.com ou enviar mensagem para o perfil GitHub @rianreiss
 
 Forneça informações de contato, como e-mail ou perfil do GitHub, para que as pessoas possam se comunicar com a equipe caso tenham dúvidas, sugestões ou feedback.
 
