@@ -47,8 +47,4 @@ Membros da equipe envolvidos no projeto:
 
 Professor/Orientador:
 
-- | Joao Ronaldo Del Ducca Cunha | joao.cunha@professores.unimetrocamp.edu.br |
-
-| Professor/Orientador | Contato |
-|--- |--- |
-| Joao Ronaldo Del Ducca Cunha | joao.cunha@professores.unimetrocamp.edu.br |
+- Joao Ronaldo Del Ducca Cunha | joao.cunha@professores.unimetrocamp.edu.br
