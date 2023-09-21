@@ -3,12 +3,13 @@ Site desenvolvido como projeto para a disciplina de Desenv. Web em Html5, Css, J
 
 ## Descrição
 
-Nosso projeto é desenvolver um site, onde o usuário possa montar seu próprio café (personalizar), antes de comprar.
+Nosso projeto é desenvolver um site, onde o usuário possa montar seu próprio café _(personalizar)_, antes de comprar.
 
 ## Funcionalidades Principais
 
-- Elementos relativos.
+- Web Design Responsivo.
 - Navegação por páginas.
+- Envio de Formulários.
 - Validação de Logins.
 - Personalização de Produto.
 - Carrinho.
@@ -25,28 +26,17 @@ Nosso projeto é desenvolver um site, onde o usuário possa montar seu próprio 
 - JavaScript
 - PHP
 - Angular
-- 
+
 _Essas tecnologias foram escolhidas e utilizadas por serem tecnologias atuais e devido a proposta dos  planos de aulas da disciplina._
-- Liste as linguagens de programação, bibliotecas, frameworks e ferramentas utilizadas.
-- Explique brevemente por que essas tecnologias foram escolhidas.
 
-## Instalação e Uso
+## Uso
 
-- A utilização é feita através do GitHub Pages.
-- Segue o link: https://rianreiss.github.io/projeto_desenv_web/
-  
-1. Forneça instruções passo a passo para a instalação do projeto.
-2. Explique como executar o projeto em um ambiente local ou como acessá-lo online.
-3. Forneça exemplos de comandos ou configurações necessárias.
+- A utilização é feita através do GitHub Pages (link abaixo).
+- [Projeto Metro Coffee](https://rianreiss.github.io/projeto_desenv_web/)
 
 ## Equipe e Contatos
 
 Membros da equipe envolvidos no projeto:
-
-- 202302686851 - Rian Carvalho dos Reis
-- 202302382169 - Gregory Gustavo Nicoletti Ribeiro
-- 202302378481 - Ana Júlia Ghirali da Silva
-- 202302382584 - Caio Rafael Tilli Von Groll
 
 | RA | Nome | Contato |
 |--- |--- |--- |
@@ -55,18 +45,6 @@ Membros da equipe envolvidos no projeto:
 | 202302378481 | Ana Júlia Ghirali da Silva | 202302378481@alunos.unimetrocamp.edu.br |
 | 202302382584 | Caio Rafael Tilli Von Groll | 202302382584@alunos.unimetrocamp.edu.br |
 
-
-Professor/Orientador:
-
-- Joao Ronaldo Del Ducca Cunha
-- Contato: joao.cunha@professores.unimetrocamp.edu.br
-- JOAO RONALDO DEL DUCCA CUNHA
-
-
-## Contato
-
-Para contato enviar email para gregnr080205@gmail.com ou enviar mensagem para o perfil GitHub @rianreiss
-
-Contatos
-
-Forneça informações de contato, como e-mail ou perfil do GitHub, para que as pessoas possam se comunicar com a equipe caso tenham dúvidas, sugestões ou feedback.
+| Professor/Orientador | Contato |
+|--- |--- |
+| Joao Ronaldo Del Ducca Cunha | joao.cunha@professores.unimetrocamp.edu.br |
