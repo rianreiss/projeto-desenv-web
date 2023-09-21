@@ -45,6 +45,10 @@ Membros da equipe envolvidos no projeto:
 | 202302378481 | Ana Júlia Ghirali da Silva | 202302378481@alunos.unimetrocamp.edu.br |
 | 202302382584 | Caio Rafael Tilli Von Groll | 202302382584@alunos.unimetrocamp.edu.br |
 
+Professor/Orientador:
+
+- | Joao Ronaldo Del Ducca Cunha | joao.cunha@professores.unimetrocamp.edu.br |
+
 | Professor/Orientador | Contato |
 |--- |--- |
 | Joao Ronaldo Del Ducca Cunha | joao.cunha@professores.unimetrocamp.edu.br |
