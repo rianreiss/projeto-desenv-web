@@ -1,64 +1,72 @@
-# Projeto "Cafeteria"
-Disciplina de Desenvolvimento Web
+# Projeto "Metro Coffe"
+Site desenvolvido como projeto para a disciplina de Desenv. Web em Html5, Css, Javascript e Php.
 
 ## Descrição
 
-Nosso projeto é desenvolver uma página de uma cafeteria, para facilitar a venda de produtos para o cliente.
+Nosso projeto é desenvolver um site, onde o usuário possa montar seu próprio café (personalizar), antes de comprar.
 
 ## Funcionalidades Principais
 
+- Elementos relativos.
+- Navegação por páginas.
+- Validação de Logins.
+- Personalização de Produto.
+- Carrinho.
+- Compras.
+- 
 - Lista das principais funcionalidades do projeto. Esse projeto tem como funcionalidade a facilitação de vendas e entrega de produtos
 - Destaque as características que o tornam único ou inovador.
 - Use listas para facilitar a leitura e compreensão.
 
 ## Tecnologias Utilizadas
 
+- HTML5
+- CSS, SASS
+- JavaScript
+- PHP
+- Angular
+- 
+_Essas tecnologias foram escolhidas e utilizadas por serem tecnologias atuais e devido a proposta dos  planos de aulas da disciplina._
 - Liste as linguagens de programação, bibliotecas, frameworks e ferramentas utilizadas.
 - Explique brevemente por que essas tecnologias foram escolhidas.
 
 ## Instalação e Uso
 
+- A utilização é feita através do GitHub Pages.
+- Segue o link: https://rianreiss.github.io/projeto_desenv_web/
+  
 1. Forneça instruções passo a passo para a instalação do projeto.
 2. Explique como executar o projeto em um ambiente local ou como acessá-lo online.
 3. Forneça exemplos de comandos ou configurações necessárias.
 
-## Capturas de Tela
+## Equipe e Contatos
 
-Inclua algumas capturas de tela do projeto para ilustrar as principais interfaces ou funcionalidades. Use uma estrutura como:
-
-![Tela 1](screenshots/tela1.png)
-Legenda: Descrição da tela ou funcionalidade.
-
-## Contribuição
-
-Explique como outros alunos ou colaboradores podem contribuir para o projeto:
-
-1. Explique como clonar o repositório.
-2. Dê diretrizes para configuração do ambiente de desenvolvimento.
-3. Detalhe os passos para submissão de novas funcionalidades ou correções.
-
-## Equipe
-
-Liste os nomes dos membros da equipe envolvidos no projeto:
+Membros da equipe envolvidos no projeto:
 
 - 202302686851 - Rian Carvalho dos Reis
 - 202302382169 - Gregory Gustavo Nicoletti Ribeiro
 - 202302378481 - Ana Júlia Ghirali da Silva
+- 202302382584 - Caio Rafael Tilli Von Groll
+
+| RA | Nome | Contato |
+|--- |--- |--- |
+| 202302686851 | Rian Carvalho dos Reis | 202302686851@alunos.unimetrocamp.edu.br |
+| 202302382169 | Gregory Gustavo Nicoletti Ribeiro | 202302382169@alunos.unimetrocamp.edu.br |
+| 202302378481 | Ana Júlia Ghirali da Silva | 202302378481@alunos.unimetrocamp.edu.br |
+| 202302382584 | Caio Rafael Tilli Von Groll | 202302382584@alunos.unimetrocamp.edu.br |
 
 
+Professor/Orientador:
 
-## Licença
+- Joao Ronaldo Del Ducca Cunha
+- Contato: joao.cunha@professores.unimetrocamp.edu.br
+- JOAO RONALDO DEL DUCCA CUNHA
 
-Indique a licença sob a qual o projeto é disponibilizado. Por exemplo:
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## Contato
 
 Para contato enviar email para gregnr080205@gmail.com ou enviar mensagem para o perfil GitHub @rianreiss
 
+Contatos
+
 Forneça informações de contato, como e-mail ou perfil do GitHub, para que as pessoas possam se comunicar com a equipe caso tenham dúvidas, sugestões ou feedback.
-
----
-
-Este é um modelo básico de README para um projeto da faculdade. Sinta-se à vontade para personalizá-lo de acordo com as necessidades específicas do seu projeto e adicionando seções extras conforme necessário.
