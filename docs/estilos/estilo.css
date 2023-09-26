@@ -4,11 +4,56 @@ body {
 }
 
 body {
-  color: green;
-  background-color: lightgray;
+  color: #6F4E37;
+  background-color: #FFECD0;
 }
 
 div p {
   font-size: 2em;
   font-weight: bold;
+}
+
+#login-input {
+  background-color: #C0997F;
+  display: flex;
+  width: 250px;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin: auto;
+  justify-content: center;
+  padding: 20px;
+}
+
+.david {
+  display: flex;
+  width: 250px;
+  height: 250px;
+  flex-direction: column;
+  text-align: center;
+  align-content: center;
+}
+.david img {
+  width: 10px;
+}
+.david label {
+  margin-bottom: 1px;
+  text-align: left;
+}
+.david .daviddd {
+  border-bottom: 1px solid #FFECD0;
+  display: flex;
+  text-align: right;
+}
+.david .input {
+  border: none;
+  background-color: transparent;
+  margin-bottom: 0px;
+}
+.david .input::-moz-placeholder {
+  color: #FFECD0;
+  padding-left: 5%;
+}
+.david .input::placeholder {
+  color: #FFECD0;
+  padding-left: 5%;
 }/*# sourceMappingURL=estilo.css.map */

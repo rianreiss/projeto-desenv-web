@@ -6,8 +6,11 @@
 }
 
 
-$primary-color: green;
-$secondary-color: lightgray;
+$primary-color: #6F4E37;
+$secondary-color: #FFECD0;
+$coffee1: #89664E;
+$coffee2: #A47F66;
+$coffee3: #C0997F;
 
 body{
     color: $primary-color;
@@ -17,5 +20,48 @@ body{
 div {
     p {
         @include tamnaho_texto(2em);
+    }
+}
+
+#login-input {
+    background-color: $coffee3;
+    display: flex;
+    width: 250px;
+    height: fit-content;
+    margin: auto;
+    justify-content: center;
+    padding: 20px;
+}
+
+.david{
+    display: flex;
+    width: 250px;
+    height: 250px;
+    flex-direction: column;
+    text-align: center;
+    align-content: center;
+
+    img{
+        width: 10px;
+    }
+
+    label{
+        margin-bottom: 1px;
+        text-align: left;
+    }
+    .daviddd{
+        border-bottom: 1px solid $secondary-color;
+        display: flex;
+        text-align: right;
+    }
+
+    .input{
+        border: none;
+        background-color: transparent;
+        margin-bottom: 0px;
+    }
+    .input::placeholder{
+        color: $secondary-color;
+        padding-left: 5%;
     }
 }

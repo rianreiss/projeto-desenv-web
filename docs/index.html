@@ -5,38 +5,49 @@
         <title>Login - Metro Coffee</title>
         <meta name="description" content="Pet Shop para banhos, tosas e produtos para pets.">
         <meta name="keywords" content="banho, tosa, pet shop">
-        
         <link rel="stylesheet" href="./estilos/estilo.css" type='text/css'>
-    </head>
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    </head> 
     <body>
-        <header>
-            <h1>Página inicial "Metro Coffee"</h1>
+        <header id="login-tittle">
+            <div>
+                <h1>Metro Coffee</h1>
+            </div>
         </header>
-        <article>
-            <form action="">
-                <fieldset>
+
+        <article id="login-input">
+            <form class="david" action="">
                 <label for="email">E-mail:</label>
-                <input type="email" id="email" name="email" required>
-    
+                <div class="daviddd">
+                    <img src="/docs/imgs/mug-hot-solid.svg">
+                    <input class="input" type="email" id="email" name="email" required placeholder="e-mail"/>
+                </div>
                 <label for="password">Senha:</label>
-                <input type="password" id="password" name="password" required>
-    
+                <div class="daviddd">
+                    <img src="/docs/imgs/mug-hot-solid.svg">
+                    <input class="input" type="password" id="password" name="password" required placeholder="password">
+                </div>
+
                 <input type="submit" value="Entrar">
     
                 <a href="cadastrar.html">Não tem cadastro?</a>
                 <a href="senha.html">Esqueceu sua senha?</a>
-                </fieldset>
             </form>
         </article>
+
         <ul>
             <li><a href="#">Teste</a></li>
             <li>Teste Instagram: <a href="https://www.instagram.com/" target="_blank">click</a>.</li>
         </ul>
+
+        <p>
+            Entre em contato <a href="mailto:202302686851@alunos.unimetrocamp.edu.br">conosco</a>.
+        </p>
+
         <footer>
-            <h4>Contatos:</h4>
-            <ul>
-                <li>E-mails: <a href="mailto:202302686851@alunos.unimetrocamp.edu.br" target="_blank">202302686851@alunos.unimetrocamp.edu.br</a></li>
-            </ul>
+            <p>
+                Cunho acadêmico. Nenhum direito reservado.
+            </p>
         </footer>
     </body>
 </html>
