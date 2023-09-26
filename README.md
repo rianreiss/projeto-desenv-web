@@ -14,10 +14,6 @@ Nosso projeto é desenvolver um site, onde o usuário possa montar seu próprio 
 - Personalização de Produto.
 - Carrinho.
 - Compras.
-- 
-- Lista das principais funcionalidades do projeto. Esse projeto tem como funcionalidade a facilitação de vendas e entrega de produtos
-- Destaque as características que o tornam único ou inovador.
-- Use listas para facilitar a leitura e compreensão.
 
 ## Tecnologias Utilizadas
 
