@@ -97,4 +97,24 @@ header {
 }
 .header-nav p {
   padding: 5px;
+}
+
+#selecao-cafe {
+  opacity: 0;
+}
+
+fieldset {
+  display: flex;
+  background-color: #C0997F;
+  height: -moz-fit-content;
+  height: fit-content;
+  justify-content: center;
+}
+
+.img-cafe {
+  width: 200px;
+}
+
+#main-div {
+  margin: 5% 25% auto;
 }/*# sourceMappingURL=estilo.css.map */
