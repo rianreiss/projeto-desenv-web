@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #6F4E37;
+  background-color: #FFECD0;
+  font-size: 15px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.btn-header {
+  background-color: transparent;
+  border: none;
+  color: #FFECD0;
+}
+
+#nav-montar {
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  background-color: #6F4E37;
+  display: flex;
+  width: 100%;
+  height: 80px;
+}
+
+.h-div {
+  margin: 10px;
+}
+
+.header-text {
+  color: #FFECD0;
+  flex: 1;
+}
+
+.header-nav {
+  list-style: none;
+  display: flex;
+  float: right;
+  border: 1px solid #C0997F;
+  margin: 5px;
+}
+.header-nav p {
+  padding: 5px;
+}
+
+#selecao-cafe {
+  opacity: 0;
+}
+
+fieldset {
+  display: flex;
+  background-color: #C0997F;
+  height: -moz-fit-content;
+  height: fit-content;
+  justify-content: center;
+}
+
+.img-cafe {
+  width: 200px;
+}
+
+#main-div {
+  margin: 5% 25% auto;
+}
+
+nav ul {
+  list-style: none;
+  background: #89664E;
+}
+nav ul #dropdown {
+  width: 100%;
+  background: #A47F66;
+  position: absolute;
+  z-index: 999;
+  display: none;
+}
+nav ul #dropdown li {
+  display: block;
+}
+nav ul li {
+  display: inline-block;
+  position: relative;
+}
+nav ul li a {
+  display: block;
+  padding: 5px 5px;
+  color: #FFECD0;
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+}/*# sourceMappingURL=estilo-form.css.map */
