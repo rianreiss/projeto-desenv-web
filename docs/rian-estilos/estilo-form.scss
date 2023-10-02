@@ -41,22 +41,53 @@ body{
 .header-text {
     color: $secondary-color;
     flex: 1;
-
 }
 
-.header-nav {
-    list-style: none;
-    display: flex;
-    float: right;
-    border: 1px solid $coffee3;
-    margin: 5px;
-    p{
-        padding: 5px;
+#text-bemvindo {
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.nav-dropdown {
+    position: relative;
+    display: block;
+
+    .btn-header{
+        cursor: pointer;
+    }
+
+    #dropdown {
+        display: none;
+        :hover {
+            display: block;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            padding: 0;
+            list-style: none;
+            padding: 0;
+            :hover {
+                display: block;
+    
+            }
+            li{
+                padding: 10px;
+            }
+        }
     }
 }
 
+
+
 #selecao-cafe {
     opacity: 0;
+}
+
+form{
+    display: flex;
+    border: 5px solid black;
+    padding: 5px;
+    flex-direction: column;
 }
 
 fieldset {
@@ -71,38 +102,5 @@ fieldset {
 }
 
 #main-div {
-    margin: 5% 25% auto;
-}
-
-nav {
-    ul {
-        list-style: none;
-        background: $coffee1;
-
-        #dropdown {
-            width: 100%;
-            background: $coffee2;
-            position: absolute;
-            z-index: 999;
-            display: none;
-
-            li {
-                display: block;
-            }
-        }
-
-        li{
-            display: inline-block;
-            position: relative;
-
-            a {
-                display: block;
-                padding: 5px 5px;
-                color: $secondary-color;
-                text-decoration: none;
-                text-align: center;
-                font-size: 20px;
-            }
-        }
-    }
+    margin: 5% 5%;
 }
